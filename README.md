@@ -2,6 +2,7 @@
 <h3 align="center">Backend JAVA</h3>
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=josemurillas&label=Profile%20views&color=0e75b6&style=flat" alt="josemurillas" /> </p>
 
 ![Linkedin Badge](https://img.shields.io/badge/-JoseAlejandroMurillasZuñiga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-alejandro-murillas-zu%C3%B1iga-3477331ab/)
 
