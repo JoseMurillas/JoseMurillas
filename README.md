@@ -14,6 +14,6 @@
 
 ### Looker Data 
 Mi analisis de dato de un base de datos del gobierno de colombia CSV.
-- [Deforestación en el Chocó durante los años 2014-2021](https://lookerstudio.google.com/reporting/5fd9b1bb-db6a-45d6-9310-8a4f57c6da64)
+- [Deforestación en el Chocó durante los años 2014-2021](https://lookerstudio.google.com/reporting/5fd9b1bb-db6a-45d6-9310-8a4f57c6da64) <br />
 Proyecto MINTIC colombia.
 - [Instituciones Universitarias de Colombia](https://lookerstudio.google.com/reporting/5bdf0a44-d601-4e65-bb4f-5962aee5b06f)
