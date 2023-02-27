@@ -13,11 +13,15 @@
 
 --- 
 
-### <h2> Looker Data </h2> 
+<h2> Looker Data </h2> 
 Mi analisis de dato de un base de datos del gobierno de colombia CSV.
 - [Deforestación en el Chocó durante los años 2014-2021](https://lookerstudio.google.com/reporting/5fd9b1bb-db6a-45d6-9310-8a4f57c6da64)
 - [Instituciones Universitarias de Colombia](https://lookerstudio.google.com/reporting/5bdf0a44-d601-4e65-bb4f-5962aee5b06f)
 
 
 <br />
+
+---
+<h2> Lenguajes de Programacion <h2>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
