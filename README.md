@@ -1,4 +1,5 @@
-### Hola Soy Jose 😎
+<h1 align="center">Hola 👋, Soy Jose</h1>
+<h3 align="center">Backend JAVA</h3>
 
 ---
 
