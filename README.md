@@ -1,6 +1,6 @@
 ### Hola Soy Jose 😎
 
-[![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-alejandro-murillas-zu%C3%B1iga-3477331ab/)]
+[![Linkedin Badge](https://img.shields.io/badge/-Jose Alejandro Murillas Zuñiga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-alejandro-murillas-zu%C3%B1iga-3477331ab/)]
 
 Bienvenidos a mi repositorio de GIT, estudiantes de Ingenieria de software ⚡.
 Lenguaje de preferido de programacion es JAVA 💻.
