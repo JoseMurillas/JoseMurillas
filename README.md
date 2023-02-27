@@ -6,11 +6,6 @@
 
 ![Linkedin Badge](https://img.shields.io/badge/-JoseAlejandroMurillasZuñiga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-alejandro-murillas-zu%C3%B1iga-3477331ab/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jose-alejandro-murillas-zu%c3%b1iga-3477331ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jose-alejandro-murillas-zu%c3%b1iga-3477331ab/" height="30" width="40" /></a>
-</p>
-
 - ⚡ Bienvenidos a mi repositorio de GIT, estudiante de Ingenieria de software ⚡
 - 💻 Lenguaje de preferido de programacion es JAVA.
 - 📈 Interesado en Power BI y Looker Data 📉
