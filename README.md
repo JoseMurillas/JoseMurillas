@@ -1,5 +1,5 @@
 ### Hola Soy Jose 😎
-[![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/jonathangin/](https://www.linkedin.com/in/jose-alejandro-murillas-zu%C3%B1iga-3477331ab/))]([https://www.linkedin.com/in/jonathangin/](https://www.linkedin.com/in/jose-alejandro-murillas-zu%C3%B1iga-3477331ab/))
+[![Linkedin Badge](https://img.shields.io/badge/-JonathanGin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[[[https://www.linkedin.com/in/jonathangin/](https://www.linkedin.com/in/jose-alejandro-murillas-zu%C3%B1iga-3477331ab/)](https://www.linkedin.com/in/jose-alejandro-murillas-zu%C3%B1iga-3477331ab/)](https://www.linkedin.com/in/jose-alejandro-murillas-zu%C3%B1iga-3477331ab/))]([https://www.linkedin.com/in/jonathangin/](https://www.linkedin.com/in/jose-alejandro-murillas-zu%C3%B1iga-3477331ab/))
 
 <!--
 **JoseMurillas/JoseMurillas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
