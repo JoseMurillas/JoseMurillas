@@ -1,5 +1,5 @@
 ### Hola Soy Jose 😎
-
+| - | - | - | - | - | - | - |
 Bienvenidos a mi repositorio de GIT, estudiantes de Ingenieria de software ⚡.
 Lenguaje de preferido de programacion es JAVA 💻.
 Interesado en Power BI y Looker Data.
