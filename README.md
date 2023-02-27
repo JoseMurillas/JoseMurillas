@@ -1,5 +1,7 @@
 ### Hola Soy Jose 😎
-| - | - | - | - | - | - | - |
+
+[![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)]
+
 Bienvenidos a mi repositorio de GIT, estudiantes de Ingenieria de software ⚡.
 Lenguaje de preferido de programacion es JAVA 💻.
 Interesado en Power BI y Looker Data.
