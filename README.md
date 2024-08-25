@@ -1,33 +1,84 @@
-<h1 align="center">Hola 👋, Soy Jose</h1>
-<h3 align="center">Backend JAVA - PHP<</h3>
+<h2 align="left">Hola 👋, Soy Jose</h2>
 
----
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=josemurillas&label=Profile%20views&color=0e75b6&style=flat" alt="josemurillas" /> </p>
+###
 
-![Linkedin Badge](https://img.shields.io/badge/-JoseAlejandroMurillasZuñiga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-alejandro-murillas-zu%C3%B1iga-3477331ab/)
+<p align="center">⚡ Bienvenidos a mi repositorio de GIT, estudiante de Ingenieria de software y técnico de programación de software⚡<br>💻 Lenguaje preferido de programacion es JAVA - PHP.<br>📈 Interesado en Power BI y Looker Data 📉</p>
 
-- ⚡ Bienvenidos a mi repositorio de GIT, estudiante de Ingenieria de software y técnico de programación de software⚡
-- 💻 Lenguaje preferido de programacion es JAVA - PHP.
-- 📈 Interesado en Power BI y Looker Data 📉
+###
 
-<br />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/josemurillas/count.svg?"  />
+</div>
 
---- 
+###
 
-### Looker Data 
-Mis analisis de datos del gobierno de colombia CSV.
-- [Deforestación en el Chocó durante los años 2014-2021](https://lookerstudio.google.com/u/0/reporting/5fd9b1bb-db6a-45d6-9310-8a4f57c6da64)
-- [Universidades Colombianas](https://lookerstudio.google.com/u/0/reporting/5bdf0a44-d601-4e65-bb4f-5962aee5b06f)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=josemurillas&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=josemurillas&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josemurillas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<br />
+###
 
----
-<h2> Lenguajes de Programacion <h2>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="php" width="40" height="40"/> </a>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
-<br />
-  
----
-  
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=josemurillas&show_icons=true&locale=en" alt="josemurillas" /></p>
+###
+
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXhsajN4ZTNnZzN1dWJhbHdrZjhrYjRxcGRrZmFkZ3FpdDEzaXVkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CjmvTCZf2U3p09Cn0h/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/josemurillas/josemurillas/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@alejandro.teoloco" alt="Layout with last medium posts"  />
+</div>
+
+###
