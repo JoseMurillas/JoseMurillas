@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Jose Alejandro Murillas 👋
+# Hola, soy Jose Alejandro Murillas
 
 ### Ingeniero Técnico de Software · Backend & Arquitectura de Sistemas
 
@@ -21,19 +21,19 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
 Ingeniero de software especializado en **desarrollo backend** con **PHP / Laravel** y **Node.js / NestJS**. Construyo APIs RESTful, arquitecturas modulares y servicios de alto rendimiento, aplicando principios **SOLID**, **arquitectura limpia** y buenas prácticas de seguridad.
 
-- 🏗️ **Backend experto** en Laravel y NestJS (TypeScript), con diseño de APIs, autenticación, colas y servicios desacoplados.
-- 🗄️ **Bases de datos** relacionales con **PostgreSQL** y MySQL, y no relacionales (**NoSQL**) como MongoDB y Redis: modelado, optimización de consultas e integridad de datos.
-- 🐳 **Contenerización con Docker** y Docker Compose para entornos consistentes y reproducibles, de desarrollo a producción en servidores Linux.
-- 📊 Interés en **analítica de datos** con Power BI y Looker Studio.
-- 🎯 Enfoque en código mantenible, documentación clara y soluciones que resuelven necesidades reales de negocio.
+- **Backend experto** en Laravel y NestJS (TypeScript), con diseño de APIs, autenticación, colas y servicios desacoplados.
+- **Bases de datos** relacionales con **PostgreSQL** y MySQL, y no relacionales (**NoSQL**) como MongoDB y Redis: modelado, optimización de consultas e integridad de datos.
+- **Contenerización con Docker** y Docker Compose para entornos consistentes y reproducibles, de desarrollo a producción en servidores Linux.
+- **Analítica de datos** con Power BI y Looker Studio como área de interés.
+- **Calidad del software**: código mantenible, documentación clara y soluciones que resuelven necesidades reales de negocio.
 
 ---
 
-## 🛠️ Stack tecnológico
+## Stack tecnológico
 
 <div align="center">
 
@@ -53,7 +53,7 @@ Ingeniero de software especializado en **desarrollo backend** con **PHP / Larave
 
 ---
 
-## 📈 Estadísticas en GitHub
+## Estadísticas en GitHub
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=josemurillas&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&locale=es" alt="Estadísticas de GitHub" />
@@ -66,7 +66,7 @@ Ingeniero de software especializado en **desarrollo backend** con **PHP / Larave
 
 ---
 
-## ✍️ Últimos artículos
+## Últimos artículos
 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@alejandro.teoloco" alt="Últimos artículos en Medium" />
@@ -76,7 +76,7 @@ Ingeniero de software especializado en **desarrollo backend** con **PHP / Larave
 
 <div align="center">
 
-<sub>💬 Abierto a colaborar en proyectos backend, APIs y arquitectura de software.</sub>
+<sub>Abierto a colaborar en proyectos backend, APIs y arquitectura de software.</sub>
 
 <br>
 
